@@ -12,10 +12,10 @@ switched to Sublime text2 but I am finally back home. Well, the
 following guide is only for macs. Sorry GVIM users!
 Here is the latest screenshot of my macvim:
 
-![Macvim](/public/img/vim.png)
+![Macvim]({{ site.url }}/public/img/vim.png)
 
 As you can see, it has a nice Filebrowser that is way more clean and
-intuitive than NERDTree.  
+intuitive than NERDTree.
 
 ## Installation
 
